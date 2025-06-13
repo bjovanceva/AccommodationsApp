@@ -1,1 +1,1 @@
-This is an application for reserving accommodations. Hosts can add, edit, or delete accommodations, while users can add them to a temporary reservation list and then confirm the reservation. The technologies used are Java, Spring Boot, and React.
+This is an application for reserving accommodations. Hosts can add, edit, or delete accommodations, while users can add them to a temporary reservation list and then confirm the reservation. The technologies used are Java, Spring Boot, JavaScript and React.
